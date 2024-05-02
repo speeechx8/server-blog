@@ -1,0 +1,26 @@
+[
+    {
+        "post_id": 1,
+        "title": "First Blog Post",
+        "author": "Paul Niemczyk",
+        "body": "These student devs keep getting younger and smarter."
+    },
+    {
+        "post_id": 2,
+        "title": "How to Edit a Blog Post",
+        "author": "Jordan",
+        "body": "This post has been editted thanks to the power of Postman."
+    },
+    {
+        "post_id": 3,
+        "title": "The Wonders of JavaScript",
+        "author": "Jordan",
+        "body": "JavaScript is a versatile programming language that powers the interactive experiences of the web, enabling dynamic content, responsive design, and user-friendly interfaces."
+    },
+    {
+        "post_id": 4,
+        "title": "How to Center a div",
+        "author": "Jordan",
+        "body": "Use display flex, duh."
+    }
+]
